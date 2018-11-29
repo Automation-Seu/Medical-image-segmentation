@@ -1,1 +1,19 @@
 
+Implementation of several deep learning-based segmentation models
+
+1. Path Aggregation Network for Instance Segmentation （PANet）
+   performance: 1st place in the COCO 2017 Challenge Instance Segmentation task and the 2nd place in Object Detection task without large-batch training
+   paper: https://arxiv.org/abs/1803.01534
+   code: https://github.com/ShuLiu1993/PANet
+   
+2. Mask R-CNN
+   performance:  COCO 2016 challenge winners
+   paper: https://arxiv.org/abs/1703.06870
+   code: https://github.com/facebookresearch/Detectron
+   
+ 3. U-Net: Convolutional Networks for Biomedical Image Segmentation
+    performance: 1st in ISBI cell tracking challenge 2015
+    paper: https://arxiv.org/abs/1505.04597
+    code: https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/
+    
+  
